@@ -1,0 +1,27 @@
+body {
+    background-color: #fac7a5;
+    color: #0f0500;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+header {
+    background-color: #ad281c6c;
+    color: #0f0500;
+    border: 10px solid;
+    border-color:#0e05012d
+}
+    h1 {
+        font-family: Chango, sans-serif;
+        font-size: xxx-large
+    }
+a {
+    color:#faecad;
+    font-family: Chango, sans-serif;
+}
+footer {
+    background-color: #ad281cb4;
+}
+img.pasfoto {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;}
